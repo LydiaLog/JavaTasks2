@@ -1,0 +1,2 @@
+복사할 텍스트 파일 내용
+file copy program
